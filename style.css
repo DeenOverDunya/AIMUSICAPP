@@ -1,0 +1,27 @@
+body
+{
+    font-family: 'DynaPuff', cursive;
+font-size: 15px;
+background-attachment: fixed;
+
+
+}
+
+h3{
+
+color:white;
+}
+
+span
+{
+background-color: #BDE0FE;
+color:#006466;
+}
+
+
+canvas
+{
+background:#BDE0FE ;
+border: #006466;
+border-width: 5px;
+}
